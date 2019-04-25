@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555795675 source:c:\dhaval\test\main.cpp
+	<iostream>
+	<graphics.h>
+
